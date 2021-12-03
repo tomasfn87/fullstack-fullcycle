@@ -1,0 +1,27 @@
+GET http://localhost:3000/test/testing1
+
+###
+GET http://localhost:3000/orders/
+
+###
+GET http://localhost:3000/orders/
+
+###
+POST http://localhost:3000/orders/
+Content-Type: application/json
+
+{
+  "amount": 999.99
+}
+
+###
+PATCH http://localhost:3000/orders/
+Content-Type: application/json
+
+{
+  "status": "approved",
+  "amount": 899.99
+}
+
+###
+DELETE http://localhost:3000/orders/
