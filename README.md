@@ -7,5 +7,6 @@ Objetivos:
 * Assuntos abordados:
   - Container ( Docker )
   - Go ( Go Lang )
-  - JavaScript ( Nest.js, Next.js (React), Apache/Kafka )
+  - JavaScript ( Nest.js, Next.js (React) )
+  - Apache/Kafka
   - Clean Architecture
