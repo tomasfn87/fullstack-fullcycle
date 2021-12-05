@@ -1,7 +1,8 @@
 /* eslint-disable react-hooks/rules-of-hooks */
 import { useEffect, useState } from "react";
 import axios from 'axios';
-import { GetServerSideProps, NextPage } from "next";
+import type { NextPage } from "next";
+import { GetServerSideProps } from "next";
 import useSwr from 'swr';
 import { withIronSessionSsr } from "iron-session/next";
 import ironConfig from '../util/iron-config';
@@ -14,7 +15,7 @@ interface UsersPageProps {
   users: User[];
 }
 
-const fetcher = (url: string) => {
+export const fetcher = (url: string) => {
   return axios.get(url).then((res) => res.data);
 }
 
