@@ -1,5 +1,5 @@
 golang/
 nextjs/next-ssr/.vscode/
-nestjs/kafka-nest-integration/nestjs-mysql-kafka/.docker/
-*.docker/*
+nestjs/kafka-nest-integration/nestjs-mysql-kafka/.docker/*
+*/.docker/*
 
