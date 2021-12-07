@@ -2,3 +2,5 @@ golang/
 nestjs/kafka-nest-integration/nestjs-mysql-kafka/.docker/dbdata/ibdata1
 nextjs/next-ssr/.vscode/
 nestjs/kafka-nest-integration/nestjs-mysql-kafka/.docker/dbdata/ibtmp1
+nestjs/kafka-nest-integration/nestjs-mysql-kafka/.docker/dbdata/ib_logfile0
+nestjs/kafka-nest-integration/nestjs-mysql-kafka/.docker/dbdata/ibdata1
