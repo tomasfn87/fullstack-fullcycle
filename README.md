@@ -3,7 +3,7 @@
 Objetivos:
 ----------
 * Armazenar arquivos do curso FullStack da FullCycle
-* Curso de trata de uma imersão para criação de uma aplicação financeira (compra, pagamento, etc)
+* O curso se trata de uma imersão para criação de uma aplicação financeira (compra, pagamento, etc)
 * Assuntos abordados:
   - Container ( Docker )
   - Go ( Go Lang )
